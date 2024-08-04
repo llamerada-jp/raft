@@ -8,7 +8,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/armon/go-metrics"
+	metrics "github.com/hashicorp/go-metrics"
 )
 
 // SnapshotMeta is for metadata of a snapshot.
